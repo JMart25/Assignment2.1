@@ -6,7 +6,7 @@ class InchestoCentimeters
     {
         const double CentimetersPerInch = 2.54;
 
-        double inches = 15994; 
+        double inches = 5; 
 
         double centimeters = inches * CentimetersPerInch;
 
